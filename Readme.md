@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to hide GroupSummary from GroupRowContent when GroupRow is expanded
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4304)**
+**[[Run Online]](https://codecentral.devexpress.com/e4304/)**
 <!-- run online end -->
 
 
